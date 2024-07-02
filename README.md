@@ -64,7 +64,7 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://i.ibb.co/BGgKnrJ/images-q-tbn-ANd9-Gc-SKmt-Av2-G-Lo-Vv-Yz-Vphgka-W6-W1yj3z0t-R7igw-s.png" alt="express" width="40" height="40"/>
   </a>
 </p>
 
