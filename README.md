@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://imgur.com/g3tLGru)
+![](https://i.ibb.co.com/ZKNJD2J/Neutral-Modern-Web-Developer-Linked-In-Banner.jpg)
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
